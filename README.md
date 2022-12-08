@@ -18,4 +18,4 @@ SEAT NUMBER (optional e.g.13A)
 STATUS (CONFIRMED) (e.g.YES/NO)
 
 These information will be written and formatted on a .docx file which will be in a printable version.
-I have attached a sample ticket here
+I have attached a sample ticket [here](https://github.com/tharanees/printAirlineTicket/blob/master/MASTER%20JASOTHARAN%20THARANEES.doc)
