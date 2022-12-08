@@ -1,9 +1,8 @@
 # printAirlineTicket
-User needs to input passenger's SURNAME, OTHER NAMES,TITLE tikcet number, booking reference (6 characters long), number of flights during the itinerary and
-issuing airline
+User needs to input passenger's surname, other names,title (e.g.MR,MRS,MASTER,MISS), tikcet number, booking reference (6 characters long e.g.R9EDJX), number of flights during the itinerary and issuing airline (e.g.QATAR AIRWAYS)
 
 Need to input each flight details:
-FLIGHT NUMBER (e.g.UL318)
+FLIGHT NUMBER (e.g.QR55)
 ORIGIN (e.g. London Heathrow INTL)
 DESTINATION (e.g.Kuala Lumpur INTL)
 BOOKING CLASS (e.g.ECONOMY)
