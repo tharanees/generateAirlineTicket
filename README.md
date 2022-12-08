@@ -11,8 +11,10 @@ DEPARTURE TIME/TAKE-OFF TIME (e.g.1400)
 ARRIVAL DATE/LANDING DATE (e.g.03NOV)
 ARRIVAL TIME/LANDING TIME (e.g.0915)
 FARE BASIS (e.g.ZXW7)
+NVB (date before which the ticket will not be valid. optional input. e.g.03NOV)
+NVA (date after which the ticket will not be valid. optional input. e.g.03NOV)
 BAGGAGE ALLOWANCE (e.g.40KG)
-SEAT NUMBER (e.g.13A)
+SEAT NUMBER (optional e.g.13A)
 STATUS (CONFIRMED) (e.g.YES/NO)
 
 These information will be written and formatted on a .docx file which will be in a printable version.
