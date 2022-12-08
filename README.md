@@ -5,7 +5,7 @@ Need to input each flight details:
 FLIGHT NUMBER (e.g.QR55)
 ORIGIN (e.g. London Heathrow INTL)
 DESTINATION (e.g.Kuala Lumpur INTL)
-BOOKING CLASS (e.g.ECONOMY)
+BOOKING CLASS (single character, e.g.A)
 DEPARTURE DATE/TAKE-OFF DATE (e.g.03NOV)
 DEPARTURE TIME/TAKE-OFF TIME (e.g.1400)
 ARRIVAL DATE/LANDING DATE (e.g.03NOV)
