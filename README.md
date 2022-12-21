@@ -1,4 +1,4 @@
-# printAirlineTicket
+# generateAirlineTicket
 User needs to input passenger's surname, other names,title (e.g.MR,MRS,MASTER,MISS), tikcet number, booking reference (6 characters long e.g.R9EDJX), number of flights during the itinerary and issuing airline (e.g.QATAR AIRWAYS)
 
 Need to input each flight details: <br>
